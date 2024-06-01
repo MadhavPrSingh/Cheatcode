@@ -60,5 +60,3 @@ const Login = () => {
 
 export default Login
 
-// madhavprakashsingh2003@gmail.com
-// Madhav#2003
